@@ -12,7 +12,8 @@ Such as...
 
 - A 1D Random Walk
 - A 2D Random Walk
-- A 3D Random Walk etc.
+- A 3D Random Walk 
+etc...
 
 Data Visualisations:
 ========================================
